@@ -1,8 +1,8 @@
-# OTR-CHAT-APP
+# Enigma
 
-This project is still under progress
+This project is still under progress.
 
-OTR-CHAT-APP implements the Off-The-Record messaging or OTR Protocol. 
+Engima is a chat application that implements the Off-The-Record messaging or OTR Protocol. 
 
 Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:
 
