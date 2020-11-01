@@ -1,6 +1,6 @@
 # OTR-CHAT-APP
 
-<This project is still under progress>
+This project is still under progress
 
 OTR-CHAT-APP implements the Off-The-Record messaging or OTR Protocol. 
 
